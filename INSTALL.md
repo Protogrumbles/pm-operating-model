@@ -72,4 +72,28 @@ python3 skills/adoption-telemetry/scripts/telemetry.py skills/adoption-telemetry
 
 Run `python3 <script> --help` for the full flag list. Example inputs live
 in each skill's `examples/` folder; example outputs live in
-`examples/output.*`.
+`examples/output.*`. One command per lane:
+
+```bash
+python3 skills/project-charter-generator/scripts/charter.py skills/project-charter-generator/examples/input.json
+python3 skills/tpm-adr-writer/scripts/adr.py skills/tpm-adr-writer/examples/input.json
+python3 skills/portfolio-intake-scorer/scripts/scorer.py skills/portfolio-intake-scorer/examples/input.json
+python3 skills/portfolio-roi/scripts/roi.py skills/portfolio-roi/examples/verified-example.json
+```
+
+## The four lanes
+
+Install all four lanes at once (the commands above copy everything
+under `skills/`), or install a single lane by copying only its folders:
+
+- **Project:** `project-charter-generator`, `project-wbs-scheduler`,
+  `project-raid-log`, `project-status-report`
+- **Program:** `raci-generator`, `escalation-designer`, `okr-tracker`,
+  `adoption-telemetry`, `stakeholder-report`
+- **Technical Program:** `tpm-adr-writer`, `tpm-rollout-planner`,
+  `tpm-cutover-checklist`, `tpm-sev-review` — plus the companion
+  security-review skill RAILGUARD at
+  github.com/Protogrumbles/Rail-Guard (a review framework, not a
+  scanner; installed separately)
+- **Portfolio:** `portfolio-intake-scorer`, `portfolio-capacity-planner`,
+  `portfolio-roi`, `portfolio-quarterly-review`
