@@ -58,7 +58,7 @@ a validation section listing any decisions that break the rules above.
 
 ## Design notes
 
-This pattern comes from a 600-person operating-model redesign where the
+This pattern comes from a 180-person operating-model redesign where the
 first deliverable was not a new org chart but a decision-rights map:
 every recurring decision, one accountable owner, named explicitly.
 The org chart followed the decisions, not the other way around.
