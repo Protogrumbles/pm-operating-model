@@ -13,7 +13,7 @@ working CLI, for Claude Code, Codex, and Cursor, in four lanes:
 - **Portfolio** — decide what to fund: intake scoring, capacity,
   ROI roll-up, quarterly review.
 
-Grounded in patterns from a real 600-person operating-model redesign
+Grounded in patterns from a real 180-person operating-model redesign
 and a risk platform rolled out across 57 productions in ~8 weeks.
 
 ## The skills
@@ -63,7 +63,7 @@ framework, not a scanner; see
 ## What it's grounded in
 
 The patterns in this pack come from real operating-model work: a
-600-person operating-model redesign commissioned by a senior director,
+180-person operating-model redesign commissioned by a senior director,
 and a risk platform built across 57 productions in ~8 weeks (roughly
 5–7x faster than the prior approach). Verified outcomes from that work:
 
