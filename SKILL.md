@@ -3,7 +3,7 @@
 A Claude Code / Codex / Cursor skill pack for people who run projects,
 programs, technical programs, and portfolios. Seventeen skills, each
 with a working CLI (except `stakeholder-report`, which is templates),
-grounded in patterns from a real 600-person operating-model redesign
+grounded in patterns from a real 180-person operating-model redesign
 and a risk platform rolled out across 57 productions in ~8 weeks.
 
 ## What this pack is
@@ -73,7 +73,7 @@ These are real outcomes from the operating-model work the patterns come
 from, anonymized and labeled where they appear. They are not promises —
 they are what the pattern produced once, in one context.
 
-- 600-person operating-model redesign, commissioned by a senior director.
+- 180-person operating-model redesign, commissioned by a senior director.
 - Risk platform built across 57 productions in ~8 weeks — roughly 5–7x
   faster than the prior approach.
 - Escalations cut ~25%; first-contact resolution improved ~65–70%.
