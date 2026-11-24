@@ -1,6 +1,6 @@
 # Adoption Telemetry — Risk Platform Rollout — anonymized worked example
 
-*ANONYMIZED WORKED EXAMPLE — built from verified outcomes of a real 600-person operating-model redesign and risk-platform rollout (57 productions, ~8 weeks). Identifying details removed; weekly user counts are illustrative reconstructions that reproduce the verified end-state, not measured weekly data. Verified end-state: escalations down ~25%, first-contact resolution up ~65–70% (45% → 75%), ~600 hrs/mo saved at full adoption, $2.5M/yr recovered.*
+*ANONYMIZED WORKED EXAMPLE — built from verified outcomes of a real 180-person operating-model redesign and risk-platform rollout (57 productions, ~8 weeks). Identifying details removed; weekly user counts are illustrative reconstructions that reproduce the verified end-state, not measured weekly data. Verified end-state: escalations down ~25%, first-contact resolution up ~65–70% (45% → 75%), ~600 hrs/mo saved at full adoption, $2.5M/yr recovered.*
 
 | Week | Eligible | Active | Adoption | Δ vs prior wk | Escalations | Esc Δ | Hours saved |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
