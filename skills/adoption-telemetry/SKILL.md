@@ -50,7 +50,7 @@ python3 scripts/telemetry.py examples/input.json --md out/telemetry.md
 work this pack is grounded in, with identifying details removed. It is
 labeled as such in the file and in the output. The verified outcomes:
 
-- 600-person operating-model redesign; risk platform across 57
+- 180-person operating-model redesign; risk platform across 57
   productions in ~8 weeks (5–7x faster than the prior approach).
 - Escalations down ~25%; first-contact resolution up ~65–70%.
 - $2.5M/yr recovered; ~600 hrs/mo saved.
